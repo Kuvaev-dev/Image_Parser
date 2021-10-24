@@ -1,3 +1,5 @@
+// не бейте за то, что это не jQuery(
+
 var ajaxModule = function(){};
 ajaxModule.prototype = {
   iterator: 1,
